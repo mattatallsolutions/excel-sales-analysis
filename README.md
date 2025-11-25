@@ -78,7 +78,7 @@ The data was cleaned, formatted, and explored through pivot tables and charts to
 ## Files Included
 - `data/superstore_raw.csv` — Raw dataset  
 - `data/superstore_cleaned.xlsx` — Cleaned dataset with pivot tables  
-- `analysis/charts/` — All exported chart images  
+- `charts/` — All exported chart images  
 - `notes/data_cleaning_log.xlsx` — Cleaning process log  
 
 ---
